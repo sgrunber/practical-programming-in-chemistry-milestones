@@ -9,8 +9,8 @@ The **personal milestones table** outlines key milestones for practical programm
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/sgrunber                                               | 
 | 1    | Github Profile Page                         | https://github.com/sgrunber/sgrunber                                    |
-| 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr`                |
-| 1    | Create a New Branch                         | https://github.com/`username`/`repo-name`/tree/`new-branch-name`            |
+| 1    | Commit and Push Change from Command Line    | https://github.com/sgrunber/ppchem/commit/da5f785d6f54eed93f0f76b17cfee5fdb7e1fa21               |
+| 1    | Create a New Branch                         | https://github.com/sgrunber/ppchem/tree/ppchem_new_branch            |
 | 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
 | 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
