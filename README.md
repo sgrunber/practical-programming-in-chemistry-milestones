@@ -12,7 +12,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Commit and Push Change from Command Line    | https://github.com/sgrunber/ppchem/commit/da5f785d6f54eed93f0f76b17cfee5fdb7e1fa21               |
 | 1    | Create a New Branch                         | https://github.com/sgrunber/ppchem/tree/ppchem_new_branch            |
 | 1    | Create a conda environment                  | https://github.com/sgrunber/ppchem/blob/main/env.yml     |
-| 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
+| 1    | Fork a Repo                                 | https://github.com/sgrunber/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
 
